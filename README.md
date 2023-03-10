@@ -1,2 +1,2 @@
 # FullStack-Work
-Networking Repository for class work.
+# To improve is to change.
